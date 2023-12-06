@@ -1,4 +1,3 @@
-from math import floor
 import re
 f = open("input.txt", "r")
 
